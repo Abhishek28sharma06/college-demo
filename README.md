@@ -1,2 +1,3 @@
 # college-demo
-this is first GIT respository
+this is my first GIT respository
+Author-- Abhishek
